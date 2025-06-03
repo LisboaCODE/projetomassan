@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version = "1">
+<active id="1" name="Sings of Massan" description="This is the rhythm of the night ohh" gfx="microfone.png" quality="2" maxcharges="100" initcharge="0" chargetype="timed" cooldown="150" tags="nocantrip offensive"/>
+</items>

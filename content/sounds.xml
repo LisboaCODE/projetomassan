@@ -1,0 +1,6 @@
+<sounds root="sfx/">
+<sound name="Massan_Sings">
+<sample weight="10" path="teste1.wav"/>
+<sample weight="10" path="teste2.wav"/>
+</sound>
+</sounds>

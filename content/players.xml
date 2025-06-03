@@ -1,0 +1,14 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+    <player name="Massan"
+    skin="character_massan.png"
+    nameimage="playername_massan.png"
+    costumeSuffix="Massan"
+    hp="4"
+    armor="2"
+    bombs="1"
+    coins="3"
+    portrait="playerportrait_massan.png"
+    skincolor="-1"
+    items="609"
+    />
+</players>
